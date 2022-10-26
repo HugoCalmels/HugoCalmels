@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hugo Calmels</h1>
-<h3 align="center">Passionate fullstack developer from Toulouse, France.</h3>
+<h1>Hi, I'm Hugo Calmels</h1>
+<h3>Passionate fullstack developer from Toulouse, France.</h3>
 
 - 👨‍💻 All of my projects are available at [https://portofolio-hugo-calmels.netlify.app/](https://portofolio-hugo-calmels.netlify.app/)
 
