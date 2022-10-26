@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://portofolio-hugo-calmels.netlify.app/](https://portofolio-hugo-calmels.netlify.app/)
 
 - 📫 How to reach me **calmels.hugo@yahoo.fr**
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hugo-calmels/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-calmels/" height="30" width="40" /></a>
