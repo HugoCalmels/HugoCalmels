@@ -5,16 +5,16 @@
 <h5>Here is the list of the projects I published.</h5>
 
   <ul>
-    <li><a href="https://thp-omniscience.herokuapp.com/">Omniscience</a> RoR ( June 2021 ) </li>
-    <li><a href="https://learnroom-v2.netlify.app/">Learnroom</a> RoR API + React ( Sept 2021 )</li>
-    <li><a href="https://github.com/HugoCalmels/RailsIntermediate_Eventbrite">Habis Tracker</a> RoR + JS ( Nov 2021 )</li>
-    <li><a href="https://habits-tracker-plus.herokuapp.com/">Learnroom</a> RoR + JS  ( Jan 2022 )</li>
-    <li><a href="https://quizz-js-plus.netlify.app/">Quizz</a> JS ( Feb 2022 )</li>
-    <li><a href="https://snake-plus.netlify.app/">Snake</a> RoR API + JS ( March 2022 )</li>
-    <li><a href="https://image-app-plus.netlify.app">Images App</a> React ( April 2022 )</li>
-    <li><a href="https://www.portofolio-hugo-calmels.com/">Portofolio</a> JS ( April 2022 )</li>
-    <li> <a href="https://github.com/HugoCalmels/react-notepad">Notepad App</a> React ( May 2022 )</li>
-    <li><a href="https://clonebook-super.netlify.app/">Clonebook</a> RoR API + React ( Sept 2022 )</li>
+    <li><a href="https://thp-omniscience.herokuapp.com/">Omniscience</a> #RoR ( June 2021 ) </li>
+    <li><a href="https://learnroom-v2.netlify.app/">Learnroom</a> #RoR API #React ( Sept 2021 )</li>
+    <li><a href="https://github.com/HugoCalmels/RailsIntermediate_Eventbrite">Habis Tracker</a> #RoR #JS ( Nov 2021 )</li>
+    <li><a href="https://habits-tracker-plus.herokuapp.com/">Learnroom</a> #RoR #JS  ( Jan 2022 )</li>
+    <li><a href="https://quizz-js-plus.netlify.app/">Quizz</a> #JS ( Feb 2022 )</li>
+    <li><a href="https://snake-plus.netlify.app/">Snake</a> #RoR API #JS ( March 2022 )</li>
+    <li><a href="https://image-app-plus.netlify.app">Images App</a> #React ( April 2022 )</li>
+    <li><a href="https://www.portofolio-hugo-calmels.com/">Portofolio</a> #JS ( April 2022 )</li>
+    <li> <a href="https://github.com/HugoCalmels/react-notepad">Notepad App</a> #React ( May 2022 )</li>
+    <li><a href="https://clonebook-super.netlify.app/">Clonebook</a> #RoR API #React ( Sept 2022 )</li>
    </ul>
 <hr/>
 <h3 align="left">Connect with me:</h3>
