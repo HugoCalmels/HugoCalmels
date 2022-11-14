@@ -1,7 +1,9 @@
 <h1>Hi, I'm Hugo Calmels</h1>
+
 <h3>Passionate developer from Toulouse, France.</h3>
+
 <h5>Here is the list of the projects I published by publication date.</h5>
-  during "THP" bootcamp :
+
   <ul>
     <li><a href="https://thp-omniscience.herokuapp.com/">Omniscience</a> RoR ( June 2021 ) </li>
     <li><a href="https://learnroom-v2.netlify.app/">Learnroom</a> RoR API + React ( Sept 2021 )</li>
