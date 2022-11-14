@@ -2,7 +2,7 @@
 
 <h3>Passionate developer from Toulouse, France.</h3>
 
-<h5>Here is the list of the projects I published by publication date.</h5>
+<h5>Here is the list of the projects I published.</h5>
 
   <ul>
     <li><a href="https://thp-omniscience.herokuapp.com/">Omniscience</a> RoR ( June 2021 ) </li>
