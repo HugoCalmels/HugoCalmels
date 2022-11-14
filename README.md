@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hugo Calmels</h1>
 
-<h3>Passionate developer from Toulouse, France.</h3>
+<h3>Developer from Toulouse, France. Looking forward to land my first job.</h3>
 
 <h5>Here is the list of the projects I published.</h5>
 
