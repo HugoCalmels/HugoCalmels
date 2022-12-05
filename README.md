@@ -4,8 +4,10 @@
 
 <h5>Here is the list of the projects I published.</h5>
 
+<p>Few of my projects were hosted on Heroku for free, and are no longer available.</p>
+
   <ul>
-    <u><li><a href="https://thp-omniscience.herokuapp.com/">Omniscience</a> #RoR ( June 2021 ) </li></u> ( no longer available )
+    <li><a href="https://thp-omniscience.herokuapp.com/">Omniscience</a> #RoR ( June 2021 ) - no longer available </li>
     <li><a href="https://learnroom-v2.netlify.app/">Learnroom</a> #RoR API #React ( Sept 2021 )</li></u>
      <u><li><a href="https://github.com/HugoCalmels/RailsIntermediate_Eventbrite">Eventbrite</a> #RoR #JS ( Nov 2021 )</li></u>
     <li><a href="https://habits-tracker-plus.herokuapp.com/">Habis Tracker</a> #RoR #JS  ( Jan 2022 )</li>
