@@ -13,7 +13,7 @@
      <u><li><a href="https://snake-plus.netlify.app/">Snake</a> #RoR API #JS ( March 2022 )</li></u>
     <li><a href="https://image-app-plus.netlify.app">Images App</a> #React ( April 2022 )</li>
     <li><a href="https://www.portofolio-hugo-calmels.com/">Portofolio</a> #JS ( April 2022 )</li>
-    <li> <a href="https://github.com/HugoCalmels/react-notepad">Notepad App</a> #React ( May 2022 )</li>
+    <li> <a href="https://notepad-plus.netlify.app/">Notepad App</a> #React ( May 2022 )</li>
     <li><a href="https://clonebook-super.netlify.app/">Clonebook</a> #RoR API #React ( Sept 2022 )</li>
    </ul>
 <hr/>
