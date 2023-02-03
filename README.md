@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hugo Calmels</h1>
+**<h1>Hi, I'm Hugo Calmels</h1>**
 
 <h3>Developer from Toulouse, France. Looking forward to land my first job.</h3>
 
