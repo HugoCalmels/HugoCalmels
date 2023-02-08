@@ -1,25 +1,17 @@
-<h1>Bonjour, je suis Hugo Calmels</h1>
-<h3>Qui suis-je</h3>
-<p>Je suis développeur Front-end / Fullstack basé en France. J'ai commencé à apprendre le développement web en avril 2021, dans le cadre d'un bootcamp de 6 mois intitulé "The Hacking Project". Après le bootcamp, j'ai continué à étudier et à améliorer mes compétences de mon côté à travers divers projets et auto-formation.</p>
-<h3>Intérêts et passe-temps</h3>
-<p>J'ai un passé en tant que joueur compétitif, ayant joué plus de 10 000 heures de Dota 2. Cette expérience m'a appris l'anglais et m'a permis de développer des compétences telles que la résolution de problèmes et le travail d'équipe. Dans mon temps libre, j'aime faire de la randonnée en montagne pour équilibrer les activités indoor et outdoor.</p>
-<h3>Mes compétences</h3>
-<p>Je me considère comme un développeur autodidacte et facile à travailler avec. Je suis dédié à trouver des solutions aux problèmes et ouvert à l'apprentissage de nouvelles compétences qui peuvent me rendre plus productif. Je considère la communication et le travail d'équipe comme étant importants dans un environnement d'équipe, et je me considère comme étant un bon communicant.</p>
+<h1>Bonjour, je m'appelle Hugo Calmels.</h1>
+<h3>Mon parcours en tant que développeur Front-end / Fullstack</h3>
+<p>J'ai démarré ma carrière en développement web en avril 2021 lors d'un bootcamp intensif de 6 mois appelé "The Hacking Project". Depuis lors, je continue de m'investir dans ma formation et de développer mes compétences à travers divers projets et auto-formation.</p>
+<h3>Mes compétences professionnelles</h3>
+<p>Je me considère comme un développeur autodidacte et facile à travailler avec. Je suis déterminé à trouver des solutions aux problèmes qui se présentent à moi et ouvert à apprendre de nouvelles compétences pour améliorer ma productivité. Je crois en l'importance de la communication et du travail d'équipe dans un environnement de travail. </p>
 <h3>Les technologies que j'utilise</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-   <h3>Réseaux</h3>
-<p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hugo-calmels/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-calmels/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hugo.calmels/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hugo.calmels/" height="30" width="40" /></a>
-</p>
-
-  <h3>Projects</h3>
+  <h3>Historique des projets déployés</h3>
 
    <h4>Portofolio v2</h4>
   <p>Mon dernier projet en date, un portofolio plus professionnel que l'ancien.</p>
   <p> <a href="https://portofolio-hugo-calmels.com/">lien vers Portofolio v2</a></p>
-<p><a href="https://github.com/HugoCalmels/portofolio_v2">lien code github</a></p>
+   <p><a href="https://github.com/HugoCalmels/portofolio_v2">lien code github</a></p>
 
   <p>Langages & outils : React.js </p>
   <p>Réalisé en Janvier 2023.</p>
@@ -65,8 +57,8 @@
   <hr/>
   <h4>Portofolio v1</h4>
   <p>Un portofolio que j'ai jugé trop peu professionel au niveau du design.</p>
-  <a href="https://portofolio-hugo-calmels.netlify.app">lien vers Portofolio v1</a>
-      <a href="https://github.com/HugoCalmels/JS_Portofolio">lien code github</a>
+   <p><a href="https://portofolio-hugo-calmels.netlify.app">lien vers Portofolio v1</a></p>
+      <p> <a href="https://github.com/HugoCalmels/JS_Portofolio">lien code github</a></p>
   <p>Langages & outils : JavaScript, Google API </p>
   <p>Réalisé en Avril 2022.</p>
   <p>Statut : Ouvert </p>
