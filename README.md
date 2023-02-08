@@ -7,7 +7,7 @@
   <hr/>
   
   <h3>Mes objectifs professionnels</h3>
-  <p>Je suis à la recherche d'un poste de développeur front-end au sein d'une entreprise de services numériques (ESN) qui se concentre sur l'innovation et l'utilisation des dernières technologies pour offrir une expérience utilisateur exceptionnelle. Mon objectif est de travailler avec une équipe dynamique et déterminée à créer des solutions innovantes pour leurs clients. Je suis passionné par le développement web et j'ai une solide connaissance du HTML, CSS et JavaScript, ainsi que des frameworks tels que React et Vue. Je suis également compétent en développement back-end et je continue à développer mes compétences dans ce domaine pour devenir un développeur full-stack complet.</p>
+  <p>Je suis à la recherche d'un poste de développeur front-end au sein d'une entreprise de services numériques (ESN) qui se concentre sur l'innovation et l'utilisation des dernières technologies pour offrir une expérience utilisateur exceptionnelle. Mon objectif est de travailler avec une équipe dynamique et déterminée à créer des solutions innovantes pour leurs clients. Je suis passionné par le développement web et j'ai une solide connaissance du HTML, CSS et JavaScript, Ruby ainsi que des frameworks tels que React et Rails. Je suis également compétent en développement back-end et je continue à développer mes compétences dans ce domaine pour devenir un développeur full-stack complet.</p>
   <hr/>
   <h3>Intérêts et passions</h3>
 
