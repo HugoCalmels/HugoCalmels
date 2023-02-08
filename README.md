@@ -44,7 +44,7 @@
   <p>Langages & outils : React.js, Showdown, localStorage </p>
   <p>Réalisé en Mai 2022.</p>
   <p>Statut : Ouvert </p>
-    <hr/>
+    <hr></hr>
   
   <h4>Images app</h4>
   <p>Un exercice en React.js, pour faire appel à l'API du site d'images 'Unslpash'.</p>
