@@ -11,8 +11,8 @@
   <hr/>
   <h3>Intérêts et passions</h3>
 
-   <p>J'adore les activités de plein air, notamment la randonnée en montagne sur plusieurs jours. C'est une manière pour moi de maintenir une forme physique saine et de faire des efforts physiques réguliers</p>
-  <p>Je suis passionné par les jeux vidéos et en particulier la créativité qu'ils permettent. J'ai également appris l'anglais grâce à eux et jouer en équipe a renforcé mes compétences en communication et en travail d'équipe.</p>
+   <p>J'adore les activités de plein air, notamment la randonnée en montagne sur plusieurs jours. C'est une manière pour moi de maintenir une forme physique saine. 
+J'adore aussi les jeux vidéos et en particulier la créativité qu'ils permettent. J'ai également appris l'anglais grâce à eux et jouer en équipe a renforcé mes compétences en communication et en travail d'équipe.</p>
 
 <hr/>
   
