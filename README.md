@@ -65,8 +65,8 @@
 <hr/>
 <h4>Snake</h4>
 <p>Un jeu complet en JavaScript pour s'améliorer sur les animations. Mais pas vraiment une réussite ..</p>
-<p>Lien vers Snake</p>
-<p>Lien code Github : <a href="https://github.com/HugoCalmels/JS_Snake">https://github.com/HugoCalmels/JS_Snake</a></p>
+<p><a href="https://snake-plus.netlify.app/">lien vers Snake</a></p>
+<p><a href="https://github.com/HugoCalmels/JS_Snake">lien code github</a></p>
 <p>Langages & outils : JavaScript</p>
 <p>Réalisé en Mars 2022.</p>
 <p>Statut : Ouvert</p>
