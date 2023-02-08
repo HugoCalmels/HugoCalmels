@@ -56,14 +56,20 @@
   <p>Statut : Ouvert </p>
   <hr/>
   <h4>Portofolio v1</h4>
-  <p>Un portofolio que j'ai jugé trop peu professionel au niveau du design.</p>
-   <p><a href="https://portofolio-hugo-calmels.netlify.app">lien vers Portofolio v1</a></p>
-      <p> <a href="https://github.com/HugoCalmels/JS_Portofolio">lien code github</a></p>
-  <p>Langages & outils : JavaScript, Google API </p>
-  <p>Réalisé en Avril 2022.</p>
-  <p>Statut : Ouvert </p>
-  
-    <hr/>
+<p>Un portofolio que j'ai jugé trop peu professionel au niveau du design.</p>
+<p>Lien vers Portofolio v1</p>
+<p>Lien code Github : <a href="https://github.com/HugoCalmels/Portofolio_v1">https://github.com/HugoCalmels/Portofolio_v1</a></p>
+<p>Langages & outils : JavaScript, Google API</p>
+<p>Réalisé en Avril 2022.</p>
+<p>Statut : Ouvert</p>
+<hr/>
+<h4>Snake</h4>
+<p>Un jeu complet en JavaScript pour s'améliorer sur les animations. Mais pas vraiment une réussite ..</p>
+<p>Lien vers Snake</p>
+<p>Lien code Github : <a href="https://github.com/HugoCalmels/JS_Snake">https://github.com/HugoCalmels/JS_Snake</a></p>
+<p>Langages & outils : JavaScript</p>
+<p>Réalisé en Mars 2022.</p>
+<p>Statut : Ouvert</p>
   
   <h4>Quizz</h4>
   <p>Un petit jeu en JavaScript pour se faire la main sur l'asynchrone et les premières animations.</p>
