@@ -3,7 +3,7 @@
 <p>J'ai démarré ma carrière en développement web en avril 2021 lors d'un bootcamp intensif de 6 mois appelé "The Hacking Project". Depuis lors, je continue de m'investir dans ma formation et de développer mes compétences à travers divers projets et auto-formation.</p>
   <hr/>
 <h3>Mes compétences professionnelles</h3>
-<p>Je me considère comme un développeur autodidacte et facile à travailler avec. Je suis déterminé à trouver des solutions aux problèmes qui se présentent à moi et ouvert à apprendre de nouvelles compétences pour améliorer ma productivité. Je crois en l'importance de la communication et du travail d'équipe dans un environnement de travail. </p>
+<p>Je me considère comme un développeur autodidacte et facile à travailler avec. Je suis déterminé à trouver des solutions aux problèmes qui se présentent à moi et ouvert à apprendre de nouvelles compétences pour améliorer ma productivité. Je crois en l'importance de la communication et du travail d'équipe dans un environnement de travail. J'utlise énormément au quotidien des outils de recherche d'informations comme Google, Youtube, voir même ChatGPT aujourd'hui. </p>
   <hr/>
   
   <h3>Mes objectifs professionnels</h3>
