@@ -32,7 +32,7 @@ J'adore aussi les jeux vidéos et en particulier la créativité qu'ils permette
   <hr/>
    <h4>Blog automatisé</h4>
   <p>Une application pour poster des photos/vidéos qui a pour vocation d'être un site de publication d'oeuvres d'art.</p>
-  <p>  <a target="_blank" href="https://site-temporaire-blog-de-gaelle.netlify.app/">lien vers Blog automatisé</a></p>
+  <p>  <a target="_blank" href="https://site-temporaire-blog-de-gaelle.netlify.app/gaelle-boucherit">lien vers Blog automatisé</a></p>
 <p>    <a target="_blank" href="https://github.com/HugoCalmels/blog">lien code github</a></p>
 
   <p>Langages & outils : React.js, JavaScript, Rails API, AWS, PostgreSQL, redux/toolkit </p>
