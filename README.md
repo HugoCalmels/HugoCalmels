@@ -7,11 +7,11 @@
   <hr/>
   
   <h3>Mes objectifs professionnels</h3>
-  <p>Je suis à la recherche d'un poste de développeur web full stack qui se concentre sur l'innovation et l'utilisation des dernières technologies pour offrir une expérience utilisateur exceptionnelle. Mon objectif est de travailler avec une équipe dynamique et déterminée à créer des solutions innovantes pour leurs clients. Je suis passionné par le développement web et j'ai une solide connaissance du HTML, CSS et JavaScript, Ruby ainsi que des frameworks tels que React et Rails. Je suis également compétent en développement back-end et je continue à développer mes compétences dans ce domaine pour devenir un développeur full-stack complet.</p>
+  <p>En tant que développeur web passionné, mon objectif professionnel est de me spécialiser dans le développement Frontend et de créer des interfaces utilisateur interactives et réactives pour des sites web modernes. Je suis passionné par les dernières technologies, notamment JavaScript, CSS/HTML, et les frameworks tels que React, et je cherche continuellement à améliorer mes compétences pour offrir des expériences utilisateur exceptionnelles sur le web. J'ai également une solide connaissance du développement back-end et je continue à développer mes compétences pour devenir un développeur Frontend complet et offrir des solutions web de haute qualité.</p>
   <hr/>
   <h3>Intérêts et passions</h3>
 
-   <p>J'adore les activités de plein air, notamment la randonnée en montagne sur plusieurs jours. C'est une manière pour moi de maintenir une forme physique saine. 
+   <p>J'adore les activités de plein air, notamment la randonnée en montagne sur plusieurs jours. C'est pour moi une manière de maintenir une forme physique saine. 
 J'adore aussi les jeux vidéos et en particulier la créativité qu'ils permettent. J'ai également appris l'anglais grâce à eux et jouer en équipe a renforcé mes compétences en communication et en travail d'équipe.</p>
 
 <hr/>
