@@ -24,7 +24,7 @@
 
   <p>Langages & outils : React.js </p>
   <p>Réalisé en Janvier 2023.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : <span style="color:green">ouvert</span> </p>
   <hr/>
    <h4>Blog automatisé</h4>
   <p>Une application pour poster des photos/vidéos qui a pour vocation d'être un site de publication d'oeuvres d'art.</p>
@@ -33,7 +33,7 @@
 
   <p>Langages & outils : React.js, JavaScript, Rails API, AWS, PostgreSQL, redux/toolkit </p>
   <p>Réalisé en Janvier 2023.</p>
-  <p>Statut : Fermé </p>
+  <p>Statut : <span style="color:red">fermé</span> </p>
     <hr/>
    <h4>Clonebook</h4>
   <p>Un clone de Facebook, avec quelques fonctionnalités complexes.</p>
@@ -43,7 +43,7 @@
 
   <p>Langages & outils : React.js, JavaScript, Rails API, AWS, PostgreSQL, redux/toolkit </p>
   <p>Réalisé en Septembre 2022.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : <span style="color:green">ouvert</span> </p>
     <hr/>
    <h4>Notepad app</h4>
   <p>Un exercice plus poussé en React, en intégrant un MarkDown qui permet d'écrire du texte customisé pour les utilisateurs, veuillez essayer avec par exemple **Hello world**.</p>
@@ -52,7 +52,7 @@
 
   <p>Langages & outils : React.js, Showdown, localStorage </p>
   <p>Réalisé en Mai 2022.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : <span style="color:green">ouvert</span> </p>
     <hr></hr>
   
   <h4>Images app</h4>
@@ -62,7 +62,7 @@
 
   <p>Langages & outils : React.js </p>
   <p>Réalisé en Mai 2022.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : <span style="color:green">ouvert</span> </p>
   <hr/>
   <h4>Portofolio v1</h4>
 <p>Un portofolio que j'ai jugé trop peu professionel au niveau du design.</p>
@@ -70,7 +70,7 @@
 <p><a target="_blank" href="https://github.com/HugoCalmels/JS_Portofolio">lien code github</a></p>
 <p>Langages & outils : JavaScript, Google API</p>
 <p>Réalisé en Avril 2022.</p>
-<p>Statut : Ouvert</p>
+<p>Statut : <span style="color:green">ouvert</span></p>
 <hr/>
 <h4>Snake</h4>
 <p>Un jeu complet en JavaScript pour s'améliorer sur les animations. Mais pas vraiment une réussite ..</p>
@@ -78,7 +78,7 @@
 <p><a target="_blank" href="https://github.com/HugoCalmels/JS_Snake">lien code github</a></p>
 <p>Langages & outils : JavaScript</p>
 <p>Réalisé en Mars 2022.</p>
-<p>Statut : Ouvert</p>
+<p>Statut : <span style="color:red">fermé</span></p>
   <hr/>
   <h4>Quizz</h4>
   <p>Un petit jeu en JavaScript pour se faire la main sur l'asynchrone et les premières animations.</p>
@@ -87,7 +87,7 @@
 
   <p>Langages & outils : JavaScript, localStorage </p>
   <p>Réalisé en Fevrier 2022.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : <span style="color:red">fermé</span></p>
     <hr/>
    <h4>Habits-Tracker</h4>
   <p>Une application pour créer des habitudes qui sont cochables et seront scannées et enregistrées selon une liste de cycles ( jour / semaine / mois ).</p>
@@ -96,7 +96,7 @@
 
   <p>Langages & outils : Ruby on Rails, AJAX, Heroku scheduler, PostgreSQL </p>
   <p>Réalisé en Janvier 2022.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : <span style="color:green">ouvert</span> </p>
   <hr/>
    <h4>Eventbrite</h4>
   <p>Une application pour créer/rejoindre/supprimer des évènements, qui sont joignables par les autres utilisateurs. Fonctionne avec Devise et un systeme de compte.</p>
@@ -105,7 +105,7 @@
   
   <p>Langages & outils : Ruby on Rails, Bootstrap, AWS, PostgreSQL </p>
   <p>Réalisé en Novembre 2021.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : <span style="color:red">fermé</span> </p>
     <hr/>
    <h4>Learnroom</h4>
   <p>Une application pour créer et rejoindre des sessions. Elle a pour but de rassembler les utilisateurs afin qu'ils étudient ensemble sur les mêmes fuseaux horaires.   </p>
@@ -114,7 +114,7 @@
 
   <p>Langages & outils : React.js, Rails API, JavaScript, Redux, JWT-tokens, PostgreSQL, AWS </p>
   <p>Réalisé en Septembre 2021.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : <span style="color:green">ouvert</span> </p>
   <hr/>
   <h4>Omniscience</h4>
   <p>Une application pour poster des vidéos appartenant à des catégories définies par les développeurs. Elle utilise néanmoins Devise et propose un system de login/logout.</p>
@@ -122,7 +122,7 @@
   <p><a target="_blank" href="">lien code github</a></p>
   <p>Langages & outils : Ruby on Rails, AWS, PostgreSQL </p>
   <p>Réalisé en Juin 2021.</p>
-  <p>Statut : Fermé </p>
+  <p>Statut : <span style="color:red">fermé</span> </p>
   
 
 
