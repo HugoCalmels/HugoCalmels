@@ -1,18 +1,14 @@
-<h1>Bonjour, je m'appelle Hugo Calmels.</h1>
-<h3>Mon parcours en tant que développeur Front-end / Fullstack</h3>
-<p>J'ai démarré ma carrière en développement web en avril 2021 lors d'un bootcamp intensif de 6 mois appelé "The Hacking Project". Depuis lors, je continue de m'investir dans ma formation et de développer mes compétences à travers divers projets et auto-formation.</p>
-  <hr/>
-<h3>Mes compétences professionnelles</h3>
-<p>Je me considère comme un développeur autodidacte et facile à travailler avec. Je suis déterminé à trouver des solutions aux problèmes qui se présentent à moi et ouvert à apprendre de nouvelles compétences pour améliorer ma productivité. Je crois en l'importance de la communication et du travail d'équipe dans un environnement de travail. J'utlise énormément au quotidien des outils de recherche d'informations comme Google, Youtube, voir même ChatGPT aujourd'hui. </p>
-  <hr/>
-  
-  <h3>Mes objectifs professionnels</h3>
-  <p>En tant que développeur web passionné, mon objectif professionnel est de me spécialiser dans le développement Frontend et de créer des interfaces utilisateur interactives et réactives pour des sites web modernes. Je suis passionné par les dernières technologies, notamment JavaScript, CSS/HTML, et les frameworks tels que React, et je cherche continuellement à améliorer mes compétences pour offrir des expériences utilisateur exceptionnelles sur le web. J'ai également une solide connaissance du développement back-end et je continue à développer mes compétences pour devenir un développeur Frontend complet et offrir des solutions web de haute qualité.</p>
-  <hr/>
-  <h3>Intérêts et passions</h3>
+<h1>Bienvenue sur mon Github ! :+1:</h1>
 
-   <p>J'adore les activités de plein air, notamment la randonnée en montagne sur plusieurs jours. C'est pour moi une manière de maintenir une forme physique saine. 
-J'adore aussi les jeux vidéos et en particulier la créativité qu'ils permettent. J'ai également appris l'anglais grâce à eux et jouer en équipe a renforcé mes compétences en communication et en travail d'équipe.</p>
+<h3>Bio</h3>
+<p>Développeur web passionné et amateur de randonnées & bivouac dans les Pyrénées.</p>
+
+<h3>Skills</h3>
+<p>Pour la partie Frontend je code sur ReactJs, incluant de solides bases sur JavaScript mais aussi TypeScript ( j'utilise aussi Figma pour dessiner mes maquettes ).
+<p>Pour la partie Backend je code sur Ruby on Rails et suis capable de développer des API customisées. J'adore les API bien faites avec énormément de données nestées, les objets et le JSON.</p>
+<p>Actuellement j'apprends Java comme 2nd langage de Baclend, parce que j'ai une opportunité de travailler dessus avec des développeurs expérimentés.</p>
+<p>Et ensuite j'apprendrais aussi Node.js car c'est le langage de backend le plus recherché en complément de React.js</p>
+<p>En soit mon set technologique ressemblera d'ici peu à : TS + JS + React + Node + Java </p>
 
 <hr/>
   
@@ -37,7 +33,7 @@ J'adore aussi les jeux vidéos et en particulier la créativité qu'ils permette
 
   <p>Langages & outils : React.js, JavaScript, Rails API, AWS, PostgreSQL, redux/toolkit </p>
   <p>Réalisé en Janvier 2023.</p>
-  <p>Statut : Ouvert </p>
+  <p>Statut : Fermé </p>
     <hr/>
    <h4>Clonebook</h4>
   <p>Un clone de Facebook, avec quelques fonctionnalités complexes.</p>
