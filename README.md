@@ -4,7 +4,7 @@
 <p>Développeur web passionné et amateur de randonnées dans les Pyrénées.</p>
 
 <h3>Skills</h3>
-<p>React.js / JavaScript / Ruby on Rails / Git / PostgreSQL / Heroku / Figma / Création d'API </p>
+<p>React.js / JavaScript / Redux / Ruby on Rails / Git / PostgreSQL / Heroku / Figma / Création d'API </p>
 
 <hr/>
   
