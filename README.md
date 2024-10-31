@@ -1,6 +1,6 @@
-<h1>Bienvenue sur mon Github ! :+1:</h1>
+<h1>Bienvenue ! :+1:</h1>
 
-<h3>Développeur fullstack Java/Angular/React.</h3>
+<h3>Hugo, Développeur Full Stack Java/Angular/React.</h3>
 
 
   <hr/>
