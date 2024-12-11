@@ -7,16 +7,20 @@
 
 <hr/>
 
-<h4>1 - Introduction</h4>
+<h4>2 - Index des projets</h4>
 
+  <h4><a target="_blank" href="https://app.dota-arena.fr/">Squirrel Arena</a></h4>
+  <p>Application Java - Angular </p>
+  <p>Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. </p>
+  
 
-
-  <h3>Historique des projets déployés</h3>
-  <hr/>
-   <h4>Portofolio v2</h4>
+  <h4>Portofolio v2</h4>
   <p>Mon dernier projet en date, un portofolio plus professionnel que l'ancien.</p>
   <p> <a target="_blank" href="https://portofolio-hugo-calmels.com/">lien vers Portofolio v2</a></p>
-   <p><a target="_blank" href="https://github.com/HugoCalmels/portofolio_v2">lien code github</a></p>
+  <p><a target="_blank" href="https://github.com/HugoCalmels/portofolio_v2">lien code github</a></p>
+
+  
+   
 
   <p>Langages & outils : React.js </p>
   <p>Réalisé en Janvier 2023.</p>
