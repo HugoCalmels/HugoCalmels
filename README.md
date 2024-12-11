@@ -1,11 +1,15 @@
 <h3>Hugo Calmels, Développeur Full Stack - Java | Angular | React</h3>
 
-<h4>1 - Introduction</h4>
-  <p>Je suis actif sur GitHub depuis 2021,et j'utilise également <a target="_blank" href="https://gitlab.com/hugocalmels">GitLab</a> depuis 2023.</p>
-  <p>Mes projets les plus importants sont présentés sur mon <a target="_blank" href="https://hugo-calmels.fr/">portfolio</a></p>
-  <p>Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts jusqu'à mon niveau actuel.
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9f9f9; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+  <h4>1 - Introduction</h4>
+  <p>Je suis actif sur GitHub depuis 2021, et j'utilise également <a target="_blank" href="https://gitlab.com/hugocalmels">GitLab</a> depuis 2023.</p>
+  <p>Mes projets les plus importants sont présentés sur mon <a target="_blank" href="https://hugo-calmels.fr/">portfolio</a>.</p>
+  <p>Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts jusqu'à mon niveau actuel.</p>
+</div>
 
-  <hr/>
+<hr/>
+
+<h4>1 - Introduction</h4>
 
 
 
