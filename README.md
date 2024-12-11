@@ -11,6 +11,7 @@
 
   <h4><a target="_blank" href="https://app.dota-arena.fr/">Squirrel Arena</a> ( Java - Angular )</h4>
   <p>Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. </p>
+  <p>Release date 2024</p>
   
 
   <h4>Portofolio v2</h4>
