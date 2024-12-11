@@ -2,7 +2,7 @@
 
 ## Introduction
 Je suis actif sur **GitHub** depuis 2021, et j'utilise également [GitLab](https://gitlab.com/hugocalmels) depuis 2023.
-<p>Mes projets les plus importants sont présentés sur mon [Portfolio]([https://gitlab.com/hugocalmels](https://hugo-calmels.fr/)).</p>
+Mes projets les plus importants sont présentés sur mon [Portfolio](https://hugo-calmels.fr/).
 <p>Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts jusqu'à mon niveau actuel.</p>
 
 ## Index des projets
