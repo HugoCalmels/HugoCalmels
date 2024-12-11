@@ -11,6 +11,8 @@ Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts j
 ### [Squirrel Arena](https://app.dota-arena.fr/) ( Java - Angular ) - 2024
   Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. Avec des dates enregistrées en UTC, des jwt-tokens en http-only, et du SSE pour les aspects les plus techniques. J'ai essayé d'attirer quelques utilisateurs et j'ai malheuresment pas réussi. Le problème c'est que j'avais pas de clients puisque j'avaias pas trop sondé la communauté avant de développer mon produit. Et au final je me retrouve avec un outil qui peut être sympa pour les joueurs pro ( si je continue le développement ) mais qui ne fait pas le poids face à la simplicité d'un serveur discord, pour la grande majorité des joueurs lambda comme moi.
 
+  code privé sur GitLab
+
 ### Site pour un artiste ( React - Ruby ) - 2023
   Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en restant KISS. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, et j'ai pas trop aimé Joomla.. 
   
