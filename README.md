@@ -14,7 +14,7 @@ Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts j
   code privé sur GitLab
 
 ### Site pour un artiste ( React - Ruby ) - 2023
-  Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en restant KISS. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, et j'ai pas trop aimé Joomla.. 
+  Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en restant KISS & cheap. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, et j'ai pas trop aimé Joomla.. 
   
   [code](https://github.com/HugoCalmels/blog)
 
