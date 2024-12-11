@@ -1,11 +1,11 @@
 <h3>Hugo Calmels, Développeur Full Stack - Java | Angular | React</h3>
 
-<h4>1 - Introduction</h4>
-<p>Je suis actif sur GitHub depuis 2021, et j'utilise également <a target="_blank" href="https://gitlab.com/hugocalmels">GitLab</a> depuis 2023.</p>
-<p>Mes projets les plus importants sont présentés sur mon <a target="_blank" href="https://hugo-calmels.fr/">portfolio</a>.</p>
+## Introduction
+Je suis actif sur **GitHub** depuis 2021, et j'utilise également [GitLab](https://gitlab.com/hugocalmels) depuis 2023.
+<p>Mes projets les plus importants sont présentés sur mon [Portfolio]([https://gitlab.com/hugocalmels](https://hugo-calmels.fr/)).</p>
 <p>Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts jusqu'à mon niveau actuel.</p>
 
-<h4>2 - Index des projets</h4>
+## Index des projets
 
   <h4><a target="_blank" href="https://app.dota-arena.fr/">Squirrel Arena</a> ( Java - Angular ) - 2024</h4>
   <p>Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. </p>
