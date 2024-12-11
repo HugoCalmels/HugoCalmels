@@ -9,17 +9,20 @@ Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts j
 
 ## Index des projets
 
-  <h4><a target="_blank" href="https://app.dota-arena.fr/">Squirrel Arena</a> ( Java - Angular ) - 2024</h4>
-  <p>Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. </p>
-  <p>code privé</p>
 
-    <hr>
+
+  # [Squirrel Arena](https://app.dota-arena.fr/) ( Java - Angular ) - 2024
+  Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. 
+  
+  code privé
+
+  _________
 
   <h4>Site pour un artiste ( React - Ruby ) - 2023</h4>
   <p>Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en étant KISS, et en complexifiant si nécessaire à la demande. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, mais quitte à apprendre un CMS je préfèrerais me tourner plutôt vers Joomla.</p>
   <p><a target="_blank" href="https://github.com/HugoCalmels/blog">code github</a></p>
   
-  <hr>
+  _________
 
   <h4>Clonebook ( React - Ruby ) - 2022</h4>
   <p>Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en   étant KISS, et en complexifiant si nécessaire à la demande. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, mais quitte à apprendre un CMS je préfèrerais me tourner plutôt   vers Joomla.</p>
