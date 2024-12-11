@@ -1,10 +1,12 @@
 <h3>Hugo Calmels, Développeur Full Stack - Java | Angular | React</h3>
 
-<h4>Introduction</h4>
+<h4>1 - Introduction</h4>
+  <p>Je suis développeur basé à Toulouse, disponible et cherchant un travail ou une mission.</p>
   <p>Je n'ai pas été actif sur Github pendant l'année 2024 car j'étais actif sur <a target="_blank" href="https://gitlab.com/hugocalmels">GitLab</a>. </p>
-  Vous trouverez ci dessous l'ensemble de mes réalisations.
+  <p>Mais vous trouverez ci-dessous l'index des projets personnels et collaboratifs.</p>
+  
 
-  <p>Je n'ai pas été actif sur Github pendant l'année 2024 car j'étais actif sur <a target="_blank" href="https://gitlab.com/hugocalmels">GitLab</a>.</p>
+<h4>2 - Introduction</h4>
 
 
 
