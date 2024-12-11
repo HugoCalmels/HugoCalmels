@@ -16,8 +16,11 @@
   <h4>Site pour un artiste ( React - Ruby ) - 2023</h4>
   <p>Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en étant KISS, et en complexifiant si nécessaire à la demande. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, mais quitte à apprendre un CMS je préfèrerais me tourner plutôt vers Joomla.</p>
   <p><a target="_blank" href="https://github.com/HugoCalmels/blog">code github</a></p>
+  <hr/>
 
-
+  <h4>Clonebook ( React - Ruby ) - 2022</h4>
+  <p>Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en   étant KISS, et en complexifiant si nécessaire à la demande. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, mais quitte à apprendre un CMS je préfèrerais me tourner plutôt   vers Joomla.</p>
+  <p><a target="_blank" href="https://github.com/HugoCalmels/react-social-network-redux">code github</a></p>
 
 
 
