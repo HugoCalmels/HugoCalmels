@@ -1,10 +1,11 @@
 <h3>Hugo Calmels, Développeur Full Stack - Java | Angular | React</h3>
 
-<h4>
+<h4>Introduction</h4>
+  <p>Je n'ai pas été actif sur Github pendant l'année 2024 car j'étais actif sur <a target="_blank" href="https://gitlab.com/hugocalmels">GitLab</a>. </p>
   Vous trouverez ci dessous l'ensemble de mes réalisations.
-  <br>
-  Je n'ai pas été actif sur Github pendant l'année 2024 car j'étais actif sur <a target="_blank" href="https://gitlab.com/hugocalmels">GitLab</a>.
-</h4>
+
+  <p>Je n'ai pas été actif sur Github pendant l'année 2024 car j'étais actif sur <a target="_blank" href="https://gitlab.com/hugocalmels">GitLab</a>.</p>
+
 
 
   <hr/>
