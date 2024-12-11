@@ -9,9 +9,7 @@ Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts j
 
 ## Index des projets
 
-
-
-  ### [Squirrel Arena](https://app.dota-arena.fr/) ( Java - Angular ) - 2024
+### [Squirrel Arena](https://app.dota-arena.fr/) ( Java - Angular ) - 2024
   Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. Avec des dates enregistrées en UTC, des jwt-tokens en http-only, et du SSE pour les aspects les plus techniques.
   
   code privé
