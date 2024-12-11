@@ -11,25 +11,25 @@
   <p>Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. </p>
   <p>code privé</p>
 
-    <hr/>
+    <hr>
 
   <h4>Site pour un artiste ( React - Ruby ) - 2023</h4>
   <p>Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en étant KISS, et en complexifiant si nécessaire à la demande. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, mais quitte à apprendre un CMS je préfèrerais me tourner plutôt vers Joomla.</p>
   <p><a target="_blank" href="https://github.com/HugoCalmels/blog">code github</a></p>
   
-  <hr/>
+  <hr>
 
   <h4>Clonebook ( React - Ruby ) - 2022</h4>
   <p>Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en   étant KISS, et en complexifiant si nécessaire à la demande. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, mais quitte à apprendre un CMS je préfèrerais me tourner plutôt   vers Joomla.</p>
   <p><a target="_blank" href="https://github.com/HugoCalmels/react-social-network-redux">code github</a></p>
 
-    <hr/>
+    <hr>
 
   <h4><a target="_blank" href="https://notepad-plus.netlify.app/">lien vers Notepad App</a> ( React ) - 2022</h4>
   <p>Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en   étant KISS, et en complexifiant si nécessaire à la demande. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, mais quitte à apprendre un CMS je préfèrerais me tourner plutôt   vers Joomla.</p>
   <p><a target="_blank" href="https://github.com/HugoCalmels/react-notepad">code github</a></p>
 
-    <hr/>
+    <hr>
 
    
 
