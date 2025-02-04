@@ -8,13 +8,20 @@ Mes projets les plus importants sont présentés sur mon [Portfolio](https://hug
 Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts jusqu'à mon niveau actuel.
 
 ## Index des projets
+### [Blog pour artiste v2](https://vocal-scone-31faca.netlify.app/) ( Java - Angular ) - 2025
+  J'ai recommencé un projet que j'avais pas su mener à terme car trop compliqué vis à vis du besoin réel du client. J'ai réduit les couts à 12 euros/an, en n'utilisant aucun Backend, et hébergeant directement pres de 500 images sur mon repo Frontend.
+  Il manque un peu de performance car je n'ai pas encore cloné et minifié les images, mais le client est très satisfait. Nous travaillons encore actuellement sur des détails niveau design et contenu, plutôt que sur la performance, la livraison finale, ou le référencement.
+
+  code privé sur Github
+
 ### [Squirrel Arena](https://app.dota-arena.fr/) ( Java - Angular ) - 2024
   Permet de se connecter avec son compte Steam, pour récupérer de la data sur les joueurs. Par la suite un joueur peut créer ou rejoindre une Team, et puis créer ou rejoindre un match, et finalement accepter ou refuser des propositions de participation au match. Avec des dates enregistrées en UTC, des jwt-tokens en http-only, et du SSE pour les aspects les plus techniques. J'ai essayé d'attirer quelques utilisateurs et j'ai malheuresment pas réussi. Le problème c'est que j'avais pas de clients puisque j'avaias pas trop sondé la communauté avant de développer mon produit. Et au final je me retrouve avec un outil qui peut être sympa pour les joueurs pro ( si je continue le développement ) mais qui ne fait pas le poids face à la simplicité d'un serveur discord, pour la grande majorité des joueurs lambda comme moi.
 
   code privé sur GitLab
 
-### Site pour un artiste ( React - Ruby ) - 2023
-  Site non terminé pour ma mère. C'était en Ruby et ca manquait de bonnes pratiques et d'architecture clean. Je suis en train de recommencer de zéro en Angular sans rajouter d'API Java pour stocker les images, en restant KISS & cheap. A noter que le client a déjà un site fonctionnel sur Joomla dans lequel j'y ai mis les mains, et j'ai pas trop aimé Joomla.. 
+### Blog pour artiste v1 ( React - Ruby ) - 2023
+  Application avec section pour se connecter en tant qu'admin et changer le contenu des pages, texte, images, positionnement des images, affichage des images, de liens vers d'autres sites, de vidéos.
+  Connecté à une API en Backend pour un simple blog d'artiste, j'ai préféré recommencer de zéro le projet en full Frontend et sans fonctionnalités et sans interface admin. 
   
   [code](https://github.com/HugoCalmels/blog)
 
