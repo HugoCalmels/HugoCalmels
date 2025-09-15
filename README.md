@@ -1,4 +1,16 @@
-<h3>Hugo Calmels, Développeur Full Stack - Java | Angular | React</h3>
+# Hugo Calmels  
+Développeur React & Spring à Toulouse  
+
+👉 [Création de site internet à Toulouse](https://hugo-calmels.fr/creation-site-internet-toulouse)  
+👉 [Développement web sur-mesure](https://hugo-calmels.fr/developpement-web-toulouse)  
+
+## Stack 
+
+Frontend : 
+React, Next.js, Angular
+
+Backend : 
+Java/SpringBoot, Ruby/RoR, Firebase
 
 ## Introduction
 Je suis actif sur **GitHub** depuis 2021, et j'utilise également [GitLab](https://gitlab.com/hugocalmels) depuis 2023.
