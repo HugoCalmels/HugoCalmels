@@ -15,8 +15,6 @@ Java/SpringBoot, Ruby/RoR, Firebase
 ## Introduction
 Je suis actif sur **GitHub** depuis 2021, et j'utilise également [GitLab](https://gitlab.com/hugocalmels) depuis 2023.
 
-Mes projets les plus importants sont présentés sur mon [Portfolio](https://hugo-calmels.fr/).
-
 Vous trouverez également ci-dessous l'ensemble de mes projets, de mes débuts jusqu'à mon niveau actuel.
 
 ## Index des projets
