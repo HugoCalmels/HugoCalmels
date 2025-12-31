@@ -1,8 +1,7 @@
 # Hugo Calmels  
 Développeur React & Spring à Toulouse  
 
-👉 [Création de site internet à Toulouse](https://hugo-calmels.fr/creation-site-internet-toulouse)  
-👉 [Développement web sur-mesure](https://hugo-calmels.fr/developpement-web-toulouse)  
+👉 [Création de sites & logiciels web sur mesure](https://hugo-calmels.fr/)  
 
 ## Stack 
 
