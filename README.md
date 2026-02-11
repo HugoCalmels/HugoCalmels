@@ -7,8 +7,8 @@ Projets — Fullstack
 
 Projets — Frontend
 
-- Portfolio v3 — Vente de services web + SEO — Next.js 2025
+- Portfolio v3 — Pensé pour la vente de services web + SEO (plutôt aux non-tech) — Next.js 2025
 - Siteweb statique — Cie artiste — Next.js 2025
 - Siteweb statique — Blog artiste — React 2025
-- Portfolio v2 — Pour les recruteurs — React 2023
-- Portfolio v1 — Pour les recruteurs — JS Vanilla 2022
+- Portfolio v2 — Pensé pour les recruteurs — React 2023
+- Portfolio v1 — Pensé les recruteurs — JS Vanilla 2022
