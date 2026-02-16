@@ -7,7 +7,7 @@
 
 ## Projets — Frontend
 
-- [Portfolio v3](https://hugo-calmels.fr) — Pensé pour la vente de services web + SEO (plutôt aux non-tech) — Next.js 2025  
+- [Portfolio v3](https://hugo-calmels.fr/fr) — Pensé pour la vente de services web + SEO (plutôt aux non-tech) — Next.js 2025  
 - [Siteweb statique — Cie artiste](https://theatredimages.org/) — Next.js 2025  
 - [Siteweb statique — Blog artiste](https://gaelle-boucherit.com/) — React 2025  
 - [Portfolio v2](https://idkportofolio.netlify.app/) — Pensé pour les recruteurs — React 2023  
