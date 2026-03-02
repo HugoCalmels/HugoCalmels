@@ -7,6 +7,7 @@
 
 ## Projets — Frontend
 
+- [Siteweb bistrot - Headless CMS](https://fake-bristot.netlify.app/) — Projet pour le "fun" non payé — Next.js/Decap CMS 2025  
 - [Portfolio v3](https://hugo-calmels.fr/fr) — Pensé pour la vente de services web + SEO (plutôt aux non-tech) — Next.js 2025  
 - [Siteweb statique — Cie artiste](https://theatredimages.org/) — Next.js 2025  
 - [Siteweb statique — Blog artiste](https://gaelle-boucherit.com/) — React 2025  
