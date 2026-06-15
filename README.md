@@ -7,7 +7,7 @@
 
 ## Projets — Frontend
 
-- [Siteweb d'aubege - Mini PMS](https://github.com/HugoCalmels/Fake_3_Auberge/tree/main) — Refonte + logique métier PMS (Property Managnement System) — Next.js/Nest.js 2026  
+- [Siteweb d'aubege - Mini PMS](https://github.com/HugoCalmels/Fake_3_Auberge/tree/main) — Refonte libre (faux client) — Next.js/Nest.js 2026  
 - [Siteweb electricien](https://fakeelec.netlify.app/) — Design libre perso (faux client) — Next.js 2026  
 - [Siteweb bistrot - Headless CMS](https://fake-bristot.netlify.app/) — Refonte (faux client) — Next.js/Decap CMS 2026  
 - [Portfolio v3](https://hugo-calmels.fr/fr) — Axé clients non tech — Next.js 2025  
