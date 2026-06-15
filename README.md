@@ -9,7 +9,7 @@
 
 - [Siteweb d'aubege - Mini PMS](https://github.com/HugoCalmels/Fake_3_Auberge/tree/main) — Refonte front/back (faux client) — Next.js/Nest.js 2026  
 - [Siteweb electricien](https://fakeelec.netlify.app/) — Design libre perso (faux client) — Next.js 2026  
-- [Siteweb bistrot - Headless CMS](https://fake-bristot.netlify.app/) — Refonte (faux client) — Next.js/Decap CMS 2026  
+- [Siteweb bistrot - Headless CMS](https://fake-bristot.netlify.app/) — Refonte front (faux client) — Next.js/Decap CMS 2026  
 - [Portfolio v3](https://hugo-calmels.fr/fr) — Axé clients non tech — Next.js 2025  
 - [Siteweb cie artiste](https://theatredimages.org/) — Refonte — Next.js 2025  
 - [Siteweb blog artiste](https://gaelle-boucherit.com/) — Refonte — React 2025  
