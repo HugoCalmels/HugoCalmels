@@ -1,5 +1,6 @@
 ## Projets — Fullstack
 
+- [Siteweb d'aubege - Mini PMS](https://github.com/HugoCalmels/Fake_3_Auberge/tree/main) — Refonte front/back (faux client) — Next.js/Nest.js 2026  
 - [Squirrel Arena](https://github.com/HugoCalmels/Odonates-Dota-forked) — App de gestion d’équipes et matchs DotA2 — Java/Angular 2024  
 - [Clonebook](https://github.com/HugoCalmels/react-social-network-redux) — Clone réseau social fullstack — React/RoR 2022  
 - [LearnRoom](https://github.com/HugoCalmels/front-learn-room) — App avec bdd, fuseaux horaires — React/RoR 2021  
@@ -7,7 +8,6 @@
 
 ## Projets — Frontend
 
-- [Siteweb d'aubege - Mini PMS](https://github.com/HugoCalmels/Fake_3_Auberge/tree/main) — Refonte front/back (faux client) — Next.js/Nest.js 2026  
 - [Siteweb electricien](https://fakeelec.netlify.app/) — Design libre perso (faux client) — Next.js 2026  
 - [Siteweb bistrot - Headless CMS](https://fake-bristot.netlify.app/) — Refonte front (faux client) — Next.js/Decap CMS 2026  
 - [Portfolio v3](https://hugo-calmels.fr/fr) — Axé clients non tech — Next.js 2025  
