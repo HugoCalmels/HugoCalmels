@@ -5,7 +5,7 @@ Développeur fullstack à Toulouse<br>
 
 ![HTML](https://img.shields.io/badge/HTML-1f2937?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1f2937?style=flat-square&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E&v=2)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -50,7 +50,8 @@ Auberge, Bistrot et FakeElec sont des démos (faux clients), en ligne et testabl
 - [LearnRoom](https://github.com/HugoCalmels/front-learn-room) ([API](https://github.com/HugoCalmels/api-learn-room)) — salles de cours, fuseaux horaires — 2021
 - [Habits Tracker](https://github.com/HugoCalmels/Rails_Project_Habits_Tracker) — calendrier et rappels — 2021
 
-## IA
+## Comment je code
 
-J'ai longtemps codé avec ChatGPT, en mode LLM.<br>
+De 2021 à 2023, j'ai codé sans IA : je partais d'une page blanche, avec la doc et des tutos.<br>
+Ensuite, j'ai longtemps codé avec ChatGPT, en mode LLM.<br>
 Aujourd'hui, je travaille surtout avec de l'IA agentique : Claude Code, et parfois Codex. Je teste chaque changement à la main.
