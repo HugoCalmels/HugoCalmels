@@ -18,23 +18,23 @@ Développeur fullstack à Toulouse<br>
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-1f2937?style=flat-square&logo=rubyonrails&logoColor=D30001)
 ![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED)
 
-## Next.js · NestJS · TypeScript
+## React · Next.js · NestJS · TypeScript
 
 - **[hugo-calmels.fr](https://hugo-calmels.fr/fr)**<br>
   Mon site de développeur web : trois types de sites avec leurs prix, une démo en ligne pour chacun, FR/EN.<br>
-  <sub>Next.js · next-intl · Netlify Forms · Netlify — 2026</sub>
+  <sub>React · Next.js · next-intl · Netlify Forms · Netlify — 2026</sub>
 
 - **[Auberge du Fauxcalm](https://auberge-du-fauxcalm.netlify.app/)** · [code](https://github.com/HugoCalmels/Fake_3_Auberge)<br>
   Mini PMS : réservation en ligne, paiement Stripe, factures PDF, e-mails, back-office (planning, réservations, stats, journal).<br>
-  <sub>Next.js · NestJS · PostgreSQL · Prisma · Stripe · Docker sur VPS · tests e2e Playwright, CI — 2026, ≈ 20 jours</sub>
+  <sub>React · Next.js · NestJS · PostgreSQL · Prisma · Stripe · Docker sur VPS · tests e2e Playwright, CI — 2026, ≈ 20 jours</sub>
 
 - **[Le Faux Bistrot](https://fake-bristot.netlify.app/)** · [code](https://github.com/HugoCalmels/Fake_1_Restaurant)<br>
   Site de restaurant que le gérant modifie lui-même (CMS headless), FR/EN, Lighthouse 100.<br>
-  <sub>Next.js · Decap CMS · Netlify — 2026, ≈ 5-7 jours</sub>
+  <sub>React · Next.js · Decap CMS · Netlify — 2026, ≈ 5-7 jours</sub>
 
 - **[FakeElec](https://fakeelec.netlify.app/)** · [code](https://github.com/HugoCalmels/Fake_2_Electricien)<br>
   Site d'artisan de 25 pages, design libre, Lighthouse 100.<br>
-  <sub>Next.js · Netlify — 2026, ≈ 5 jours</sub>
+  <sub>React · Next.js · Netlify — 2026, ≈ 5 jours</sub>
 
 Auberge, Bistrot et FakeElec sont des démos (faux clients), en ligne et testables.
 
