@@ -3,6 +3,8 @@
 Développeur fullstack à Toulouse<br>
 [hugo-calmels.fr](https://hugo-calmels.fr/fr) · [LinkedIn](https://www.linkedin.com/in/hugo-calmels/)
 
+![](https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,prisma,postgres,java,spring,angular,ruby,rails,docker)
+
 ## Next.js · NestJS · TypeScript
 
 - **[hugo-calmels.fr](https://hugo-calmels.fr/fr)**<br>
@@ -23,16 +25,6 @@ Développeur fullstack à Toulouse<br>
 
 Auberge, Bistrot et FakeElec sont des démos (faux clients), en ligne et testables.
 
-## Sites réels
-
-- **[Compagnie de théâtre](https://theatredimages.org/)**<br>
-  Refonte du site d'une compagnie de théâtre.<br>
-  <sub>Next.js — 2025</sub>
-
-- **[Blog d'artiste](https://gaelle-boucherit.com/)**<br>
-  Refonte d'un blog d'artiste : 500 images, 0 € par mois d'hébergement.<br>
-  <sub>React — 2025</sub>
-
 ## Java · Spring Boot · Angular — code seulement
 
 - **[Squirrel Arena](https://github.com/HugoCalmels/Odonates-Dota-forked)**<br>
@@ -47,5 +39,5 @@ Auberge, Bistrot et FakeElec sont des démos (faux clients), en ligne et testabl
 
 ## IA
 
-J'ai longtemps codé avec ChatGPT, en mode LLM : l'Auberge a été faite comme ça. J'ai aussi un peu essayé Codex.<br>
-Aujourd'hui, je travaille avec Claude Code, un agent qui intervient directement dans le projet. Je teste chaque changement à la main.
+J'ai longtemps codé avec ChatGPT, en mode LLM.<br>
+Aujourd'hui, je travaille surtout avec de l'IA agentique : Claude Code, et parfois Codex. Je teste chaque changement à la main.
