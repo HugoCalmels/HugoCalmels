@@ -1,24 +1,44 @@
-## Projets — Fullstack
+# Hugo Calmels
 
-- [Siteweb d'aubege - Mini PMS](https://github.com/HugoCalmels/Fake_3_Auberge/tree/main) — Refonte front/back (faux client) — Next.js/Nest.js 2026 ≈ 20 jours
-- [Squirrel Arena](https://github.com/HugoCalmels/Odonates-Dota-forked) — App de gestion d’équipes et matchs DotA2 — Java/Angular 2024 ≈ 6-12 mois (beaucoup appris Java/Spring/Angular)
-- [Clonebook](https://github.com/HugoCalmels/react-social-network-redux) — Clone réseau social fullstack — React/RoR 2022 ≈ 4-6 mois 
-- [LearnRoom](https://github.com/HugoCalmels/front-learn-room) — App avec bdd, fuseaux horaires — React/RoR 2021 ≈ 10 jours
-- [Habits Tracker](https://github.com/HugoCalmels/Rails_Project_Habits_Tracker) — App avec bdd, calendrier et scheduler — RoR MVC 2021 ≈ 2 mois
+Développeur fullstack à Toulouse
+[hugo-calmels.fr](https://hugo-calmels.fr/fr) · [LinkedIn](https://www.linkedin.com/in/hugo-calmels/)
 
-## Projets — Frontend
+## Next.js · NestJS · TypeScript
 
-- [Siteweb electricien](https://fakeelec.netlify.app/) — Design libre perso (faux client) — Next.js 2026 ≈ 5 jours
-- [Siteweb bistrot - Headless CMS](https://fake-bristot.netlify.app/) — Refonte front (faux client) — Next.js/Decap CMS 2026 ≈ 5 jours
-- [Portfolio v3](https://hugo-calmels.fr/fr) — Axé clients non tech — Next.js 2025 ≈ 30-40 jours (plusieures refontes + tests de SEO/Référencement Google)
-- [Siteweb cie artiste](https://theatredimages.org/) — Refonte — Next.js 2025 ≈ 5-7 jours (pas total terminé)
-- [Siteweb blog artiste](https://gaelle-boucherit.com/) — Refonte — React 2025 ≈ 15-20 jours (500 images, 0€/mois)
-- [Portfolio v2](https://idkportofolio.netlify.app/) — Axé recruteurs — React 2023 ≈ 20+ jours
-- [Portfolio v1](https://portofolio-hugo-calmels.netlify.app/) — Axé  recruteurs — JS Vanilla 2022
+- **[hugo-calmels.fr](https://hugo-calmels.fr/fr)**
+  Mon site de développeur web : trois types de sites avec leurs prix, une démo en ligne pour chacun, FR/EN.
+  Next.js · next-intl · Netlify Forms · Netlify
 
-## Technos préférées
+- **[Auberge du Fauxcalm](https://auberge-du-fauxcalm.netlify.app/)** · [code](https://github.com/HugoCalmels/Fake_3_Auberge)
+  Mini PMS : réservation en ligne, paiement Stripe, factures PDF, e-mails, back-office (planning, réservations, stats, journal).
+  Next.js · NestJS · PostgreSQL · Prisma · Stripe · Docker sur VPS · tests e2e Playwright, CI — 2026, ≈ 20 jours
 
-- Front : Next/React 
-- Back : Nest ou SpringBoot
-- Déploiement : VPS ou Netlify
-- IA : ChatGPT LLM + Codex (Agent IA)
+- **[Le Faux Bistrot](https://fake-bristot.netlify.app/)** · [code](https://github.com/HugoCalmels/Fake_1_Restaurant)
+  Site de restaurant que le gérant modifie lui-même (CMS headless), FR/EN, Lighthouse 100.
+  Next.js · Decap CMS · Netlify — 2026, ≈ 5-7 jours
+
+- **[FakeElec](https://fakeelec.netlify.app/)** · [code](https://github.com/HugoCalmels/Fake_2_Electricien)
+  Site d'artisan de 25 pages, design libre, Lighthouse 100.
+  Next.js · Netlify — 2026, ≈ 5 jours
+
+Auberge, Bistrot et FakeElec sont des démos (faux clients), en ligne et testables.
+
+## Java · Spring Boot · Angular
+
+- **[Squirrel Arena](https://github.com/HugoCalmels/Odonates-Dota-forked)** — code seulement
+  Gestion d'équipes et de matchs Dota 2, en équipe, avec mentorat et revues de code — 2024
+
+## React · Ruby on Rails — code seulement
+
+- [Clonebook](https://github.com/HugoCalmels/react-social-network-redux) ([API](https://github.com/HugoCalmels/rails-api-social-network)) — clone de réseau social — 2022
+- [LearnRoom](https://github.com/HugoCalmels/front-learn-room) ([API](https://github.com/HugoCalmels/api-learn-room)) — salles de cours, fuseaux horaires — 2021
+- [Habits Tracker](https://github.com/HugoCalmels/Rails_Project_Habits_Tracker) — calendrier et rappels — 2021
+
+## JavaScript — code seulement
+
+[Snake](https://github.com/HugoCalmels/JS_Snake) · [Quiz](https://github.com/HugoCalmels/JS_Quizz) · [Movie Finder](https://github.com/HugoCalmels/JS_Movie_Finder) · [JavaScript30](https://github.com/HugoCalmels/JavaScript_Wes_Bos_JS_30)
+
+## IA
+
+J'ai longtemps codé avec ChatGPT, en mode LLM : l'Auberge a été faite comme ça. J'ai aussi un peu essayé Codex.
+Aujourd'hui, je travaille avec Claude Code, un agent qui intervient directement dans le projet. Je teste chaque changement à la main.
