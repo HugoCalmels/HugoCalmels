@@ -3,7 +3,20 @@
 Développeur fullstack à Toulouse<br>
 [hugo-calmels.fr](https://hugo-calmels.fr/fr) · [LinkedIn](https://www.linkedin.com/in/hugo-calmels/)
 
-![](https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,prisma,postgres,java,spring,angular,ruby,rails,docker)
+![HTML](https://img.shields.io/badge/HTML-1f2937?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1f2937?style=flat-square&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-1f2937?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Prisma](https://img.shields.io/badge/Prisma-1f2937?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Java](https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1f2937?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Angular](https://img.shields.io/badge/Angular-1f2937?style=flat-square&logo=angular&logoColor=DD0031)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-1f2937?style=flat-square&logo=rubyonrails&logoColor=D30001)
+![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ED)
 
 ## Next.js · NestJS · TypeScript
 
