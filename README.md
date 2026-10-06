@@ -1,7 +1,7 @@
 # Hugo Calmels
 
 Développeur fullstack à Toulouse<br>
-[hugo-calmels.fr](https://hugo-calmels.fr/fr) · [LinkedIn](https://www.linkedin.com/in/hugo-calmels/)
+[hugo-calmels.fr](https://hugo-calmels.fr/) · [LinkedIn](https://www.linkedin.com/in/hugo-calmels/)
 
 ![HTML](https://img.shields.io/badge/HTML-1f2937?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1f2937?style=flat-square&logo=css&logoColor=1572B6)
@@ -20,7 +20,7 @@ Développeur fullstack à Toulouse<br>
 
 ## React · Next.js · NestJS · TypeScript
 
-- **[hugo-calmels.fr](https://hugo-calmels.fr/fr)**<br>
+- **[hugo-calmels.fr](https://hugo-calmels.fr/)**<br>
   Mon site de développeur web : trois types de sites avec leurs prix, une démo en ligne pour chacun, FR/EN.<br>
   <sub>React · Next.js · next-intl · Netlify Forms · Netlify — 2026</sub>
 
